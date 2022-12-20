@@ -1,2 +1,4 @@
 # project_MemoryGame
-The file must be downloaded --> open the file --> 
+Peliz download all the files
+--> open the file
+--> ran the file index
