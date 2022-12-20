@@ -1,2 +1,2 @@
 # project_MemoryGame
-hi
+The file must be downloaded --> open the file --> 
