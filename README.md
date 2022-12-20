@@ -1,4 +1,5 @@
 # project_MemoryGame
- Please download all the files
+Enter to project memory game folder 
+--> Please download all the files in zip
 --> open the file
---> ran the file index
+--> ran the file index.html
